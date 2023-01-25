@@ -15,7 +15,7 @@ Python 3
 ## Installation
 
 Clone this repository: 
-```git clone https://github.com/d-duran/indoor-object-detection.git```
+```git clone https://github.com/d-duran/IndoorObjectDetection.git```
 
 Open the Colab notebook: `indoor_object_detection.ipynb`
 
